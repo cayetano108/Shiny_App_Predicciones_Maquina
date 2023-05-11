@@ -1,0 +1,14 @@
+name: Tarea_shiny_Cayetano_Romero
+title: Tarea_shiny_Cayetano_Romero
+username:
+account: cayetano108
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9087728
+bundleId: 7204748
+url: https://cayetano108.shinyapps.io/Tarea_shiny_Cayetano_Romero/
+when: 1683816008.60074
+lastSyncTime: 1683816008.60075
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|App_Shiny_Cayetano.Rmd|www/my_css_file.css|www/pruebacss.css

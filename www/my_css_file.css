@@ -1,0 +1,17 @@
+@font-face {
+  font-family: F1;
+  src: url(https://www.formula1.com/etc/designs/fom-website/fonts/F1Regular/Formula1-Regular.ttf);
+}
+
+
+
+/* Fondo negro y color de letra cyan para toda la página */
+body {
+  background-color: black;
+  color: cyan;
+}
+
+/* Subapartados con fondo gris */
+.navbar .nav > li > .dropdown-menu {
+  background-color: gray;
+}
